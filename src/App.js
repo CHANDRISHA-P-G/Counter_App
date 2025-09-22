@@ -9,7 +9,7 @@ import Counter from './components/Counter';
 function App() {
   return (
     <div >
-      {/* <Effect/> */}
+      {/* <Effect/>  */}
       <Counter/>
     </div>
   );
